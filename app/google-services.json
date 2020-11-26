@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330035257637",
+    "firebase_url": "https://foodingusers.firebaseio.com",
+    "project_id": "foodingusers",
+    "storage_bucket": "foodingusers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330035257637:android:23f7de823fbab855eebacc",
+        "android_client_info": {
+          "package_name": "com.example.fooding1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330035257637-iodlaang6padtber2m7vvd0n6uvblbb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNRqXEPTYNUP8DTQZia8e-eu8tuAypk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330035257637-iodlaang6padtber2m7vvd0n6uvblbb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
